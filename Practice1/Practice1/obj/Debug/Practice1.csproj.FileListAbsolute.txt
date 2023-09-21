@@ -1,0 +1,6 @@
+D:\Training\phase3\practice project\Practice1\Practice1\bin\Debug\Practice1.dll
+D:\Training\phase3\practice project\Practice1\Practice1\bin\Debug\Practice1.pdb
+D:\Training\phase3\practice project\Practice1\Practice1\obj\Debug\Practice1.csproj.AssemblyReference.cache
+D:\Training\phase3\practice project\Practice1\Practice1\obj\Debug\Practice1.csproj.CoreCompileInputs.cache
+D:\Training\phase3\practice project\Practice1\Practice1\obj\Debug\Practice1.dll
+D:\Training\phase3\practice project\Practice1\Practice1\obj\Debug\Practice1.pdb
